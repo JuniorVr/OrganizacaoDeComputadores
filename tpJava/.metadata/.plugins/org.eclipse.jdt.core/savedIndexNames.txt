@@ -1,0 +1,6 @@
+INDEX VERSION 1.130+/home/valmir/Dropbox/Faculdade_2018-1/Algoritmos/Organizacao/tpJava/.metadata/.plugins/org.eclipse.jdt.core
+2616873497.index
+2129171292.index
+880379908.index
+2453495997.index
+4180738006.index
